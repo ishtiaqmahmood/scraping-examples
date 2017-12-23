@@ -1,0 +1,2 @@
+# scraping-examples
+USE IT ONLY FOR EDUCATIONAL PURPOSE
