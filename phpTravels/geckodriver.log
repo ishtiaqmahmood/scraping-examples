@@ -1,0 +1,14 @@
+1514060276981	geckodriver	INFO	geckodriver 0.18.0
+1514060277000	geckodriver	INFO	Listening on 127.0.0.1:42840
+1514060278171	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1514060279014	Marionette	INFO	Enabled via --marionette
+1514060282207	Marionette	INFO	Listening on port 35274
+1514060282301	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514060282375	Marionette	DEBUG	Register listener.js for window 2147483649
+1514060282410	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514060284040	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514060284041	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514060286112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://www.phptravels.net/login"
+1514060309451	Marionette	DEBUG	Received DOM event "pageshow" for "http://www.phptravels.net/login"
+1514060310267	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
